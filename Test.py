@@ -231,7 +231,7 @@ def suit():
     clear_widgets()
     top_bar()
     title = page_title("Suit")
-    text = label("suit menu...")
+    text = label("suit menu changed...")
     text = label(current_time())
     text = label(".")
     # text = label(reflash_data())
